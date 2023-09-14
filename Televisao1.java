@@ -45,9 +45,9 @@ public class Televisao1 {
                     
                 }
                 controle.desligarTelevisao();
-            }
+     }
 
-        }
+ }
 
     }
 }
